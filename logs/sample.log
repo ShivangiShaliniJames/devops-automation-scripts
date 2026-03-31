@@ -1,0 +1,5 @@
+INFO Application started
+WARNING Disk space running low
+ERROR Database connection failed
+INFO Retrying connection
+CRITICAL System crash detected
